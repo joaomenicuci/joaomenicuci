@@ -28,8 +28,8 @@
 ### Status
 
  <div>
-    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=joaomenicuci&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=80A9EB&icon_color=80A9EB&text_color=808080&bg_color=00000000"/>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenicuci&layout=compact&langs_count=7&hide_border=true&title_color=80A9EB&icon_color=80A9EB&text_color=808080&bg_color=00000000"/>
+    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=joaomenicuci&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6875d4&icon_color=6875d4&text_color=808080&bg_color=00000000"/>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenicuci&layout=compact&langs_count=7&hide_border=true&title_color=6875d4&icon_color=6875d4&text_color=808080&bg_color=00000000"/>
  </div>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
