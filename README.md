@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Menicuci 👋
+## **Olá! Eu sou o João Menicuci 👋**
 
 * 💻 Desenvolvedor Web Front-end
 * 📡 Engenharia de Telecomunicações
@@ -9,7 +9,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
- ### Tecnologias
+ ### **Tecnologias**
+ <br>
  
  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="html5 logo" />
@@ -22,17 +23,9 @@
  <br>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-### Status
-
- <div>
-    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=joaomenicuci&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6875d4&icon_color=6875d4&text_color=808080&bg_color=00000000"/>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenicuci&layout=compact&langs_count=7&hide_border=true&title_color=6875d4&icon_color=6875d4&text_color=808080&bg_color=00000000"/>
- </div>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- 
-### <center>Minhas Redes
+### **Minhas Redes**
+<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomenicuci/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaomenicuci/)
